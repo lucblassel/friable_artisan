@@ -43,3 +43,6 @@ And then execute:
 Or install it yourself as:
 
     $ gem install jekyll-athena
+
+This is an added test
+
